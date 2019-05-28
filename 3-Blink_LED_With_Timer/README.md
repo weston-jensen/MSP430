@@ -1,3 +1,3 @@
 # Tutorial
 
-![Thumbnail](images/Thumbnail.png)
+![Thumbnail](images/Thumbnail.PNG)
