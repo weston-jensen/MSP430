@@ -1,1 +1,1 @@
-"./Helper_Functions.obj" "./main.obj" "../lnk_msp430fr2433.cmd" -llibmath.a -llibc.a 
+"./main.obj" "../lnk_msp430fr2433.cmd" -llibmath.a -llibc.a 

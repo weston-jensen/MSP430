@@ -49,7 +49,7 @@ __interrupt void port2_isr()
         P1OUT ^= LED1;
 
         // Clear interrupt flag
-        P2IFG &= ~LED1;
+        P2IFG &= ~BTN1;
     }
 }
 
