@@ -1,3 +1,3 @@
+# Tutorial
 
-
-![Alt text](images/Thumbnail.png?raw=true "")
+![Thumbnail](images/Thumbnail.png)
